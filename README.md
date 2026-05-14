@@ -10,6 +10,19 @@ CRAlign is a platform for musculoskeletal (MSK) wellness assessment that pairs A
 
 ---
 
+## Screenshots
+
+A look at the CRAlign platform interface.
+
+| Sign In | Create Account |
+|:---:|:---:|
+| [![CRAlign login screen — secure access to the AI-assisted musculoskeletal wellness assessment platform](screenshots/login.png)](screenshots/login.png) | [![CRAlign sign-up screen — create a clinician or patient account](screenshots/signup.png)](screenshots/signup.png) |
+
+- **Sign In** — secure, role-based access for clinicians and patients.
+- **Create Account** — streamlined onboarding into the MSK assessment and clinician-review workflow.
+
+---
+
 ## What is CRAlign?
 
 **CRAlign is an AI-assisted musculoskeletal wellness assessment platform.** It guides a patient through a conversational intake, helps structure and analyze the information, and routes every assessment through a **licensed clinician review workflow** before anything is finalized.
