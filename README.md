@@ -1,5 +1,35 @@
 # CRAlign — AI-Assisted Musculoskeletal Wellness Platform
 
+<!-- recruiter-snapshot:start -->
+## Recruiter Snapshot
+
+**What this shows:** AI-assisted musculoskeletal wellness MVP with patient intake, clinician review, and guided assessment workflows.
+
+**My role / team role:** Documented the product workflow, role-based experience, clinician review model, and MVP case study for healthcare-oriented evaluation.
+
+**Public proof:** Screenshots show login/sign-up flows and the README explains the clinician-reviewed wellness workflow.
+
+**Tech and implementation areas:**
+- React/Vite frontend
+- Python/FastAPI-style backend
+- Role-based access
+- Clinical workflow design
+- AI-assisted assessment
+
+**Relevant roles this project supports:**
+- Health-Tech Software Developer
+- Full-Stack Developer
+- AI Workflow Developer
+- Healthcare Automation Engineer
+
+## Source Code Access
+
+This is a public case-study repository. The production source code is private because it may contain proprietary business logic, client workflows, credentials, deployment details, or reusable internal implementation patterns. The public repo is intentionally focused on the product, screenshots, workflow, architecture, and evaluation material.
+
+For technical review, we can provide a live demo walkthrough, private repository access under NDA, a code screen-share, architecture review, or redacted implementation samples.
+<!-- recruiter-snapshot:end -->
+
+
 > **AI-assisted musculoskeletal assessment with a licensed-clinician review workflow at its core.**
 
 CRAlign is a platform for musculoskeletal (MSK) wellness assessment that pairs AI-assisted intake and analysis with a structured clinician review step — built privacy-first, with a compliance-minded architecture.
